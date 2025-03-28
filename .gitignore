@@ -1,0 +1,17 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore test outputs
+output_*.txt
+
+# Ignore zip files
+*.zip
+
+# Editor and IDE folders
+.vscode/
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
